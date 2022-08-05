@@ -1,0 +1,19 @@
+.btn {
+	background-color: white !important;
+	color: royalblue !important;
+	float: right;
+	width: 8rem;
+	font-weight: bold !important;
+	margin-top: 4rem;
+}
+
+.register-box {
+    margin: 5rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 30rem;
+    background-color: royalblue;
+    color:white;
+    display: block;
+    border-radius: 20px;
+  }
